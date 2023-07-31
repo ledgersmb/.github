@@ -1,4 +1,4 @@
-<table style="width:100%">
+<table style="width:100%;border:0">
   <tr>
     <td>Business size</td>
     <td>Jurisdiction</td>
