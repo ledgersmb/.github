@@ -3,7 +3,7 @@
 [docker compose](https://docs.docker.com/compose/)[^1] is the fastest way to get started. The docker compose file will set up an installation with these commands[^2]:
 
 ```bash
-wget https://github.com/ledgersmb/ledgersmb-docker/blob/1.11/docker-compose.yml
+wget https://raw.githubusercontent.com/ledgersmb/ledgersmb-docker/1.11/docker-compose.yml
 docker compose up -d
 ```
 From there, follow the [Next Steps](https://github.com/ledgersmb/LedgerSMB#next-steps).
