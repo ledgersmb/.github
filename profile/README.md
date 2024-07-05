@@ -9,7 +9,7 @@ docker-compose up -d
 From there, follow the [Next Steps](https://github.com/ledgersmb/LedgerSMB#next-steps).
 
 
-### Developer Quickstart
+### For developers
 
 The [dockerized LedgerSMB development
 infrastructure](https://github.com/ledgersmb/ledgersmb-dev-docker#ledgersmb-docker-development--testing-infrastructure)
