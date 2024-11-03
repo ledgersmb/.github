@@ -4,7 +4,7 @@
 
 ```bash
 wget https://raw.githubusercontent.com/ledgersmb/ledgersmb-docker/1.11/docker-compose.yml
-docker-compose up -d
+docker compose up -d
 ```
 From there, follow the [Next Steps](https://github.com/ledgersmb/LedgerSMB#next-steps).
 
