@@ -12,7 +12,7 @@ From there, follow the [Next Steps](https://github.com/ledgersmb/LedgerSMB#next-
 ### For developers
 
 The [dockerized LedgerSMB development
-infrastructure](https://github.com/ledgersmb/ledgersmb-dev-docker#ledgersmb-docker-development--testing-infrastructure)
+infrastructure](https://github.com/ledgersmb-devel/ledgersmb-dev-docker#ledgersmb-docker-development--testing-infrastructure)
 helps developers to get started quickly.
 
 [^1]: See [the docker compose installation instructions](https://docs.docker.com/compose/install/) in case you don't already have it installed.
